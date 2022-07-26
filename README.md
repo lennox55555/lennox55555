@@ -4,6 +4,6 @@
 - 🧑‍💻 Associates in Applied Science - Data Analytics & Software Development @ Green River College. 🐊
 - 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
 
-## My Work 💪
+## Why I love Code ❤️👾
 
 [website]: https://techlenny.com
