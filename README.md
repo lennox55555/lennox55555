@@ -5,6 +5,6 @@
 - 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
 
 ## Why I love Code ❤️👾
-
+-
 
 [website]: https://techlenny.com
