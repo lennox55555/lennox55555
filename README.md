@@ -1,6 +1,7 @@
 ### Hey Viewer, Im Lennox Anderson 
 
 My Portfoilio: [Portfolio]
+
 My Linkedin:   [Linkedin]
 
 ## Education & Certifications
