@@ -10,3 +10,4 @@ My Portfoilio: [Portfolio]
 -
 
 [Portfolio]: https://techlenny.com
+[Linkedin]: https://www.linkedin.com/in/lennox-a/
