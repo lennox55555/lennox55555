@@ -1,4 +1,6 @@
-### Hey Viewer, Im Lennox Anderson [website]
+### Hey Viewer, Im Lennox Anderson 
+
+My Portfoilio: [Portfolio]
 
 ## Education & Certifications
 - 🧑‍💻 Associates in Applied Science - Data Analytics & Software Development @ Green River College. 🐊
@@ -7,4 +9,4 @@
 ## Why I love Code and Data Analytics ❤️👾
 -
 
-[website]: https://techlenny.com
+[Portfolio]: https://techlenny.com
