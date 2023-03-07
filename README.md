@@ -12,5 +12,5 @@ My Linkedin:   [Linkedin]
 - I love to code becuase one can contruct any application given a couple languages, frameworks, and libraries.
 - I'm passionate about data analytics becuase the idea of using computational analysis to derive interpretations from data
 
-[Portfolio]: https://lennoxanderson/portfolio
+[Portfolio]: https://lennoxanderson.com/portfolio
 [Linkedin]: https://www.linkedin.com/in/lennox-a/
