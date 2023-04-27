@@ -5,8 +5,9 @@ My Portfoilio: [Portfolio]
 My Linkedin:   [Linkedin]
 
 ## Education & Certifications
-- 🧑‍💻 Associates in Applied Science - Data Analytics & Software Development @ Green River College. 🐊
-- 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
+- 🧑‍💻 Associates of Applied Science - Data Analytics & Software Development @ Green River College. 🐊
+- 🧑‍🎨 Bachelor's of Science Minor - Creative Technology and Design @ University Colorado Boulder. 🦬
+- 📚 Bachelor's of Science Major- Information Science @ University Colorado Boulder. 🦬
 
 ## Why I love Code and Data Analytics ❤️👾
 - I love to code becuase of the thought that one individual can contsruct any application given a couple languages, frameworks, and libraries.
