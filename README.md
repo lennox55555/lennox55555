@@ -9,10 +9,11 @@ My Linkedin:   [Linkedin]
 - 🧑‍🎨 Bachelor's of Science Minor - Creative Technology and Design @ University Colorado Boulder. 🦬
 - 📚 Bachelor's of Science Major- Information Science @ University Colorado Boulder. 🦬
 
-## Why I love Web Development and Data Analytics ❤️👾
-- I love to code becuase of the thought that one individual can contsruct any application given a couple languages, frameworks, and libraries.
-- I'm passionate about data analytics becuase the idea of using computational analysis to derive interpretations from data.
-- The product of developing responsive and scalable web applications excites me.  
+## Why I Find Passion in Web Development and Data Analytics ❤️👾
+
+  -My fervor for coding is driven by the profound concept that a single individual can architect a diverse range of applications armed with just a few programming languages, frameworks, and libraries.
+  -My enthusiasm for data analytics stems from the compelling notion of employing computational analysis to extract meaningful insights from data.
+  -The prospect of crafting responsive and scalable web applications is a source of genuine excitement for me, as it represents the tangible outcome of my development efforts. 
 
 [Portfolio]: https://lennoxanderson.com/portfolio
 [Linkedin]: https://www.linkedin.com/in/lennox-a/
