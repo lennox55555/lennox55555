@@ -9,7 +9,7 @@ My Linkedin:   [Linkedin]
 - 🧑‍🎨 Bachelor's of Science Minor - Creative Technology and Design @ University Colorado Boulder. 🦬
 - 📚 Bachelor's of Science Major- Information Science @ University Colorado Boulder. 🦬
 
-## Why I Find Passion in Web Development and Data Analytics ❤️👾
+## Why I Find Passion in Web Development and Machine Learning ❤️👾
 
   - My fervor for coding is driven by the profound concept that a single individual can architect a diverse range of applications armed with just a few programming languages, frameworks, and libraries.
   - My enthusiasm for data analytics stems from the compelling notion of employing computational analysis to extract meaningful insights from data.
