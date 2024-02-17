@@ -6,8 +6,8 @@ My Linkedin:   [Linkedin]
 
 ## Education & Certifications
 - 🧑‍💻 Associates of Applied Science - Data Analytics & Software Development @ Green River College. 🐊
-- 🧑‍🎨 Bachelor's of Science Minor - Creative Technology and Design @ University Colorado Boulder. 🦬
 - 📚 Bachelor's of Science Major- Information Science @ University Colorado Boulder. 🦬
+- 🧑‍🎨 Masters of Engineering Prospective Student - Artificial Intelligence @ Duke University 💙
 
 ## Why I Find Passion in Web Development and Machine Learning ❤️👾
 
