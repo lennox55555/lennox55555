@@ -1,6 +1,6 @@
-### Hey Viewer, I'm Lennox Anderson 
+# Hey Viewer, I'm Lennox Anderson 👋
 
-I am an ML Researcher currently learning about Vision Sentiment Analysis and leading a company with a product called Savvy CSV.
+### I am an ML Researcher currently learning about Vision Sentiment Analysis and leading a company with a product called Savvy CSV.
 
 My Portfolio: [Portfolio]
 
