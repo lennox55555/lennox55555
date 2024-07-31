@@ -1,19 +1,22 @@
 # Hey Viewer, I'm Lennox Anderson 👋
 
-### I am an ML Researcher currently learning about Vision ML Models and leading a company with a product called Savvy CSV.
+### I am currently working on [Savvy CSV](https://savvycsv.com) 
 
-My Portfolio: [Portfolio]
 
-My Linkedin: [Linkedin]
 
 ## Education & Certifications
+
 - 🧑‍💻 Associates of Applied Science - Data Analytics & Software Development @ Green River College. 🐊
 - 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
 - 🧑‍🎨 Masters of Engineering Student - Artificial Intelligence @ Duke University 💙
 
+## GitHub Stats
+
+[![Lennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennox55555&show_icons=true&bg_color=45,2f2f2f,3f3f3f&title_color=00aaff&text_color=00aaff&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My Portfolio: [Portfolio]
+### My LinkedIn: [LinkedIn]
+
 [Portfolio]: https://lennoxanderson.com/portfolio
-[Linkedin]: https://www.linkedin.com/in/lennox-a/
-
-[![Lennox's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lennox55555&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
-
+[LinkedIn]: https://www.linkedin.com/in/lennox-a/
