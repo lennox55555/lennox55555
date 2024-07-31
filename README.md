@@ -1,5 +1,4 @@
-# Hey Viewer, I'm Lennox Anderson 👋
-
+# Hey Viewer, I'm Lennox Anderson 👋🏽
 ### I am currently working on [Savvy CSV](https://savvycsv.com) 
 
 ### I am an AI student at Duke University passionate about research in IMAGE-AI, particularly in image classification, object detection, and image segmentation.🤖
