@@ -1,7 +1,7 @@
 # Hey Viewer, I'm Lennox Anderson 👋🏽
 ### I am currently working on [Savvy CSV](https://savvycsv.com) [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/lennox55555)
 
-### I am an AI student at Duke University passionate about research in vison ML, particularly in image classification, object detection, and image segmentation.🤖
+### I am an AI student at Duke University passionate about research in AI Allignment.🤖
 
 ## Education & Certifications
 
