@@ -21,5 +21,5 @@
 ### My Portfolio: [Portfolio]
 ### My LinkedIn: [LinkedIn]
 
-[Portfolio]: https://lennoxanderson.com/portfolio
+[Portfolio]: http://lennoxanderson.com
 [LinkedIn]: https://www.linkedin.com/in/lennox-a/
