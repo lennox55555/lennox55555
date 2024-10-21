@@ -5,9 +5,10 @@
 
 ## Education & Certifications
 
-- 🧑‍💻 Associates of Applied Science - Data Analytics & Software Development @ Green River College. 🐊
-- 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
 - 🧑‍🎨 Masters of Engineering Student - Artificial Intelligence @ Duke University 💙
+- - 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
+- 🧑‍💻 Associates of Applied Science - Data Analytics & Software Development @ Green River College. 🐊
+
 
 ## GitHub Stats
 
