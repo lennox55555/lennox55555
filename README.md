@@ -1,7 +1,5 @@
 # Hey Viewer, I'm Lennox Anderson 👋🏽
 
-### I am an AI student at Duke University passionate about research in AI Alignment.🧠→🤖
-
 ## Education & Certifications
 
 - 🧑‍🎨 Masters of Engineering Student - Artificial Intelligence @ Duke University 💙
