@@ -21,5 +21,12 @@
 ### My Portfolio: [Portfolio]
 ### My LinkedIn: [LinkedIn]
 
+
+
+
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
+<br>
+<br>
+
 [Portfolio]: http://lennoxanderson.com
 [LinkedIn]: https://www.linkedin.com/in/lennox-a/
