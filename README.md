@@ -11,9 +11,6 @@
 
 
 
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
-<br>
-<br>
 
 ### My Portfolio: [Portfolio]
 
