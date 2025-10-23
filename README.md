@@ -1,6 +1,6 @@
 # Hey Viewer, I'm Lennox Anderson 👋🏽
 
-## Education & Certifications
+## Education
 
 - 🧑‍🎨 Masters of Engineering Student - Artificial Intelligence @ Duke University 💙
 - 📚 Bachelor's of Science - Information Science @ University Colorado Boulder. 🦬
